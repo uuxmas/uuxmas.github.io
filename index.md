@@ -1,4 +1,4 @@
-## 欢迎来到uuxams的博客Welcome to GitHub Pages
+## 欢迎来到uuxams的博客
 
 You can use the [editor on GitHub](https://github.com/uuxmas/uuxmas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
